@@ -1,0 +1,32 @@
+#d1{
+    color: #ff0000;
+    background-color: rgba(154, 205, 50,0.4);
+}
+#d2{
+    color: #8a2be2;
+    background-color: rgba(154, 205, 50,0.4);
+}
+#d3{
+    color: rgb(255, 255, 0);
+    background-color: rgba(154, 205, 50,0.4);
+}
+#p1{
+    color: rgb(0, 128, 0);
+    background-color: rgba(154, 205, 50,0.4);
+}
+#p2{
+    color: hsl(240, 100%, 50%);
+    background-color: hsla(234, 100%, 65%, 0.4);
+}
+#p3{
+    color: hsl(0, 0%, 0%);
+    background-color: hsla(234, 100%, 65%, 0.4);
+}
+#p4{
+    color: #a52a2a;
+    background-color: hsla(234, 100%, 65%, 0.4);
+}
+#p5{
+    color: rgb(238, 130, 238);
+    background-color: hsla(234, 100%, 65%, 0.4);
+}

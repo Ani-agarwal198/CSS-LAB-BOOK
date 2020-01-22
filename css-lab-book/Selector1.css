@@ -1,0 +1,42 @@
+div{
+    text-decoration: underline;
+}
+
+p{
+    background-color: steelblue;
+}
+
+
+
+#d1{
+    font-weight: bold;
+    color: red;
+}
+#d2{
+    font-style: italic;
+    color: blueviolet;
+}
+#d3{
+    font-family: 'Courier New', Courier, monospace;
+    color: yellow;
+}
+#p1{
+    font-weight: bold;
+    color: green;
+}
+#p2{
+    font-style: italic;
+    color: blue;
+}
+#p3{
+    font-weight: bold;
+    color: black;
+}
+#p4{
+    font-family: 'Courier New', Courier, monospace;
+    color: brown
+}
+#p5{
+    font-family: 'Courier New', Courier, monospace;
+    color: violet;
+}
